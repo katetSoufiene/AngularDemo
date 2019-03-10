@@ -1,0 +1,154 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark",
+      "contactPreference": "email",
+      "email": "mark@gmail.com",
+      "phone": "5641238971",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Java",
+          "experienceInYears": 2,
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "angular",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "contactPreference": "phone",
+      "email": "john@email.com",
+      "phone": "3242138971",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 2,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "HTML",
+          "experienceInYears": 2,
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "LINQ",
+          "experienceInYears": 3,
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "katet",
+      "contactPreference": "email",
+      "email": "a@gmail.com",
+      "phone": "141414",
+      "skills": [
+        {
+          "skillName": "c",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "yy",
+          "experienceInYears": "88",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "cc",
+      "contactPreference": "email",
+      "email": "cc@gmail.com",
+      "phone": "123",
+      "skills": [
+        {
+          "skillName": "c",
+          "experienceInYears": "10",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "java",
+          "experienceInYears": "10",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "angular",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullName": "bb",
+      "contactPreference": "phone",
+      "email": "bb@gmail.com",
+      "phone": "123",
+      "skills": [
+        {
+          "skillName": "php",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "fullName": "ttt",
+      "contactPreference": "email",
+      "email": "tt@gmail.com",
+      "phone": "1456",
+      "skills": [
+        {
+          "skillName": "py",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "fullName": "cc",
+      "contactPreference": "email",
+      "email": "cc@gmail.com",
+      "phone": "1456",
+      "skills": [
+        {
+          "skillName": "py",
+          "experienceInYears": "10",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
