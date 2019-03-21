@@ -19,10 +19,10 @@
   "employees": [
     {
       "id": 1,
-      "fullName": "Mark",
+      "fullName": "user1",
       "contactPreference": "email",
-      "email": "mark@gmail.com",
-      "phone": "5641238971",
+      "email": "user1@gmail.com",
+      "phone": "1234567",
       "skills": [
         {
           "skillName": "C#",
@@ -43,9 +43,9 @@
     },
     {
       "id": 2,
-      "fullName": "John",
+      "fullName": "user2",
       "contactPreference": "phone",
-      "email": "john@email.com",
+      "email": "user2@email.com",
       "phone": "3242138971",
       "skills": [
         {
